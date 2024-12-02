@@ -6,8 +6,8 @@ Gas Saver Simulator is a full stack web app (React and Node.js) that allows user
 
 - Simulate gas costs and token swaps on the Ethereum blockchain.
 - Get insights on gas cost (in ETH), price impact, and amount out.
-- Simple and intuitive user interface.
-- Powered by the Enso Network API.
+- Simple and intuitive React user interface built with [v0](https://v0.dev/).
+- Powered by the [Enso Network API](https://api-docs.enso.finance/introduction/intro-to-enso).
 
 ### Walkthrough
 
