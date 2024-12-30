@@ -28,7 +28,7 @@ Ensure you have the following installed:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/hummusonrails/gas-saver-simulator.git
+   git clone https://github.com/ledgerluminary55/gas-saver-simulator
    cd gas-saver-simulator
    npm install
    ```
